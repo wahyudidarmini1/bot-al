@@ -6,23 +6,23 @@ from imgurpython import ImgurClient
 import time,random,sys,json,codecs,threading,glob,os,subprocess,multiprocessing
 
 cl = LineAlpha.LINE()
-cl.login(token="EkeaUw67d8l1ksWaRIf9.VPm++2MfGJebW2j6OM3Qcq.N8RkI8fzMpTI6SkoxX1gg/yZcvpOp2GmCubdVUizk/I=")
+cl.login(token="Erg4Xv7UiJxBp7DZtjJ2.AZs3a8Vf+ipnhLTOmQbtuG.MUASow5sT8jYj5o+ijZsQ2mRu3bfx05UGe/YnrvpLzY=")
 cl.loginResult()
 
 kk = LineAlpha.LINE()
-kk.login(token="EkGIlVSPEV2reF9yJPV5.YmK3RE2Gh7r1rsdbSBQibq.tKU1hvspJfPh6q1vCZfK8M8+U0/B8bWA3FsxqPS7pMM=")
+kk.login(token="ErIcUdnFCIEVjw9RUnYe.4uWnRTJU51yT+/CjXTyHBG.62IuWFh+yNFYYIzW2gaSIb9xiwpGpel7ND+17rl/+gQ=")
 kk.loginResult()
 
 ki = LineAlpha.LINE()
-ki.login(token="EkRQbZZErjrx5uujDyza.84BapPm+V0nuPZ1PkEq6/G.V3aSBbMrbByVhVmOx9yrMp4S7FTJqw6cetH43/pOLEA=")
+ki.login(token="Er7i7eG4tYumZYLGILw4./0DOo/10A+PUJG8iHA76Pa.xZYotGiBJf5ZRWH1gEQ8JwIKweDg0F2H2M2101t94ns=")
 ki.loginResult()
 
 kc = LineAlpha.LINE()
-kc.login(token="EkZvZ7Hlj7m84MOx8yI1.O00VsLTlmX6iq84iusWZ4q.ScFSA8A8Qsbfp5hguvZI5/MZ3JkFwkM9PIvGyqC7Pi4=")
+kc.login(token="ErDbAYXZKzz87MXMK961.hSPlQK0sOlldo8W2iFcJWq.QLWrkVhkfaP17DS5WjAlSHI2u7nzf0OqjM0fvkfSA3Q=")
 kc.loginResult()
 
 kg = LineAlpha.LINE()
-kg.login(token="EkpaxWwnqie6I5luusg7.St9fkz8GgIrWBhX+pEuGrW.Nho5QtsDAstF7T2MmUqC3ogYFUW7nw9yiu58tEARJZQ=")
+kg.login(token="ErqiO4H8zAHKfnFUxYp8.1e8nOeP/17yuiWiheXA//a.084MroAJQmR7zg+X/j6HN4DQ/F08NK2+Aurn0SUAnpc=")
 kg.loginResult()
 
 adm = cl
@@ -95,9 +95,9 @@ Bmid = ki.getProfile().mid
 Cmid = kc.getProfile().mid
 Dmid = kg.getProfile().mid
 Bots = [mid,Amid,Bmid,Cmid,Dmid]
-admin = ["u20377b4500a8f852f3fe1b2ac1af99ee"]
-staff = ["u20377b4500a8f852f3fe1b2ac1af99ee"]
-adminMID = "u20377b4500a8f852f3fe1b2ac1af99ee"
+admin = ["u6b34b703cbc5fc83cd1e5b6832a05352"]
+staff = ["u6b34b703cbc5fc83cd1e5b6832a05352"]
+adminMID = "u6b34b703cbc5fc83cd1e5b6832a05352"
 wait = {
     'contact':True,
     'autoJoin':True,
