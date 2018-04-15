@@ -10,23 +10,23 @@ import time,random,sys,json,codecs,threading,glob,os,subprocess,multiprocessing
 #bot.login(token="AuthToken")
 
 cl = LineAlpha.LINE()
-cl.login(token="AuthToken")
+cl.login(token="Erg4Xv7UiJxBp7DZtjJ2.AZs3a8Vf+ipnhLTOmQbtuG.MUASow5sT8jYj5o+ijZsQ2mRu3bfx05UGe/YnrvpLzY=")
 cl.loginResult()
 
 kk = LineAlpha.LINE()
-kk.login(token="AuthToken")
+kk.login(token="ErIcUdnFCIEVjw9RUnYe.4uWnRTJU51yT+/CjXTyHBG.62IuWFh+yNFYYIzW2gaSIb9xiwpGpel7ND+17rl/+gQ=")
 kk.loginResult()
 
 ki = LineAlpha.LINE()
-ki.login(token="AuthToken")
+ki.login(token="Er7i7eG4tYumZYLGILw4./0DOo/10A+PUJG8iHA76Pa.xZYotGiBJf5ZRWH1gEQ8JwIKweDg0F2H2M2101t94ns=")
 ki.loginResult()
 
 kc = LineAlpha.LINE()
-kc.login(token="AuthToken")
+kc.login(token="ErDbAYXZKzz87MXMK961.hSPlQK0sOlldo8W2iFcJWq.QLWrkVhkfaP17DS5WjAlSHI2u7nzf0OqjM0fvkfSA3Q=")
 kc.loginResult()
 
 kg = LineAlpha.LINE()
-kg.login(token="AuthToken")
+kg.login(token="ErqiO4H8zAHKfnFUxYp8.1e8nOeP/17yuiWiheXA//a.084MroAJQmR7zg+X/j6HN4DQ/F08NK2+Aurn0SUAnpc=")
 kg.loginResult()
 
 #selfbot (akun sendiri) cuman dibutuhin kalo mau auto join kalo di kick
